@@ -448,7 +448,7 @@ mvn clean package
 This project entitled **"HireNest - Student Placement & Recruitment Management System"** is submitted towards the partial fulfillment of the requirements for the **Advance Java Lab - Project Based Learning (PBL)** course.
 
 * **Department:** Department of Information Technology  
-* **Academic Year:** 2025–2026  
+* **Academic Year:** 2026-2027  
 * **Developed By:** Palak Agarwal, Nidhi Sharma, Riyanshi Kumawat, Yash Dadhich, Yash Verma
 
 ---
