@@ -1,0 +1,2 @@
+# HireNest
+HireNest is a modern Student Placement &amp; Recruitment Management System that connects students with companies. It enables student registration, resume uploads, job discovery, applications, and skill-based matching, while companies can post jobs and manage candidates. Built with Java, JSP, Servlets, MySQL &amp; Maven.
